@@ -2,7 +2,7 @@
   "Signature": {
     "label": {
       "loremWords": {
-        "minLength": 5,
+        "minLength": 10,
         "maxLength": 20
       }
     },
