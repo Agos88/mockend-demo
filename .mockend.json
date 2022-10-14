@@ -1,8 +1,5 @@
 {
   "Post": {
-    "label": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+    "label": { "string": {} }
   }
 }
