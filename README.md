@@ -5,4 +5,4 @@ Create API for mock data
 [.mockend.json](https://github.com/mockend/demo/blob/main/.mockend.json "Link")
 
 # REST
-- [https://mockend.com/Agos88/mockend-demo/labels](https://mockend.com/Agos88/mockend-demo/posts)
+- [https://mockend.com/Agos88/mockend-demo/posts](https://mockend.com/Agos88/mockend-demo/posts)
