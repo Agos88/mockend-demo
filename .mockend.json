@@ -12,5 +12,16 @@
         "max": "2020-12-31T23:59:59Z"
       }
     }
+  },
+  "Comment": {
+    "body": {
+      "loremParagraph": {
+        "minLength": 10,
+        "maxLength": 100
+      },
+      "post": {
+        "belongsTo": "Post"
+      }
+    }
   }
 }
